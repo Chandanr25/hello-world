@@ -1,6 +1,4 @@
 # hello-world
-just another repository
+Following programs are implemented and tested
 
-hii Im Chandan R
-
-I want to change this program from hello world to Hii everybody
+1.Program to print Hello World.
